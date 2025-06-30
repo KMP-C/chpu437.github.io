@@ -1,0 +1,180 @@
+ourgroup:
+  - id: 2022_10_19_09J221_First_Event1
+    image: 2211.jpg
+    intro: "09J221 first meeting"
+    date: "2022-10-19"
+  - id: 2022_10_19_09J221_First_Event2
+    image: 2212.jpg
+    intro: "09J221 first meeting"
+    date: "2022-10-19"
+  - id: 2022_10_19_09J221_First_Event3
+    image: 2213.jpeg
+    intro: "09J221 first meeting"
+    date: "2022-10-19"
+  - id: 2023_09_09_09J221_Turing1
+    image: 2221.jpeg
+    intro: "09J221 attending Turing"
+    date: "2023-09-09"
+  - id: 2023_09_09_09J221_Turing2
+    image: 2222.jpg
+    intro: "09J221 attending Turing"
+    date: "2023-09-09"
+  - id: 2023_09_09_09J221_Turing3
+    image: 2223.jpeg
+    intro: "09J221 attending Turing"
+    date: "2023-09-09"
+  - id: 2023_09_09_09J221_Turing4
+    image: 2224.jpeg
+    intro: "09J221 attending Turing"
+    date: "2023-09-09"
+  - id: 2023_09_09_09J221_Turing5
+    image: 2225.jpeg
+    intro: "09J221 attending Turing"
+    date: "2023-09-09"
+  - id: 2023_10_26_09J221_CNCC1
+    image: 2231.jpg
+    intro: "09J221 attending CNCC"
+    date: "2023-10-26"
+  - id: 2023_10_26_09J221_CNCC2
+    image: 2232.jpg
+    intro: "09J221 attending CNCC"
+    date: "2023-10-26"
+  - id: 2025_04_02_09J231_Honor_Class1
+    image: 2311.jpeg
+    intro: "09J231 advanced class collective"
+    date: "2025-04-02"
+  - id: 2025_04_02_09J231_Honor_Class2
+    image: 2312.jpg
+    intro: "09J231 advanced class collective"
+    date: "2025-04-02"
+  - id: 2025_04_02_09J231_Honor_Class3
+    image: 2313.jpg
+    intro: "09J231 advanced class collective"
+    date: "2025-04-02"
+  - id: 2025_04_02_09J231_Honor_Class4
+    image: 2314.jpg
+    intro: "09J231 advanced class collective"
+    date: "2025-04-02"
+  - id: 2024_12_07_09J241_Companion_Event1
+    image: 2411.jpg
+    intro: "09J241 accompanying activity"
+    date: "2024-12-07"
+  - id: 2024_12_07_09J241_Companion_Event2
+    image: 2412.jpg
+    intro: "09J241 accompanying activity"
+    date: "2024-12-07"
+  - id: 2024_03_05_Excellence_Union1
+    image: 22301.jpg
+    intro: "22,23 reunion"
+    date: "2024-03-05"
+  - id: 2024_03_05_Excellence_Union2
+    image: 22302.jpg
+    intro: "22,23 reunion"
+    date: "2024-03-05"
+  - id: 2024_03_05_Excellence_Union3
+    image: 22303.jpg
+    intro: "22,23 reunion"
+    date: "2024-03-05"
+  - id: 2024_09_14_HK_Study_Tour1
+    image: 22311.jpg
+    intro: "22,23 Hong Kong study tour"
+    date: "2024-09-14"
+  - id: 2024_09_14_HK_Study_Tour2
+    image: 22312.jpg
+    intro: "22,23 Hong Kong study tour"
+    date: "2024-09-14"
+  - id: 2024_09_14_HK_Study_Tour3
+    image: 22313.jpg
+    intro: "22,23 Hong Kong study tour"
+    date: "2024-09-14"
+  - id: 2025_04_09_TopClass_Union_3Grades1
+    image: 22341.jpg
+    intro: "22,23,24 reunion"
+    date: "2025-04-09"
+  - id: 2025_04_09_TopClass_Union_3Grades2
+    image: 22342.jpg
+    intro: "22,23,24 reunion"
+    date: "2025-04-09"
+  - id: 2025_04_09_TopClass_Union_3Grades3
+    image: 22343.jpg
+    intro: "22,23,24 reunion"
+    date: "2025-04-09"
+
+seuview:
+  - id: seu_1
+    image: seu_1.jpg
+    intro: "Gate of Sipailou Campus"
+  - id: seu_2
+    image: seu_2.jpg
+    intro: "Famous assembly hall"
+  - id: seu_3
+    image: seu_3.jpg
+    intro: "Assembly hall in winter"
+  - id: seu_4
+    image: seu_4.jpg
+    intro: "Airscape"
+  - id: seu_5
+    image: seu_5.jpg
+    intro: "Gymnasium"
+  - id: seu_6
+    image: seu_6.jpg
+    intro: "Playground"
+  - id: seu_7
+    image: seu_7.jpg
+    intro: "Airscape of the library"
+  - id: seu_8
+    image: seu_8.jpg
+    intro: "Airscape in winter"
+  - id: seu_9
+    image: seu_9.jpg
+    intro: "Landscape lake"
+
+memberlogo:
+  - id: Peking University
+    image: pekinguniversity.png
+    link: https://english.pku.edu.cn/
+    attr: college
+  - id: New York University
+    image: newyorkuniversity.jpg
+    link: https://www.nyu.edu/
+    attr: college
+  - id: University of Copenhagen
+    image: copenhagenuniversity.png
+    link: https://www.ku.dk/
+    attr: college
+  - id: Southeast University
+    image: southeastuniversity.png
+    link: https://www.seu.edu.cn/english/main.htm
+    attr: college
+  - id: Huawei
+    image: huawei.png
+    link: https://www.huawei.com/
+    attr: company
+  - id: ByteDance
+    image: bytedance.png
+    link: https://www.bytedance.com/
+    attr: company
+  - id: Alibaba
+    image: alibaba.png
+    link: https://www.alibabagroup.com/
+    attr: company
+  - id: Meituan
+    image: meituan.png
+    link: https://about.meituan.com/
+    attr: company
+  - id: China Union Pay
+    image: chinaunionpay.png
+    link: http://www.unionpayintl.com/
+    attr: company
+  - id: State Grid
+    image: stategrid.png
+    link: http://js.ifeng.com/special/fangtian/
+    attr: company
+  - id: ZTE
+    image: ZTE.png
+    link: https://www.zte.com.cn/china/about/corporate_information.html
+    attr: company
+  - id: China Electronics Technology Group Corporation
+    image: cetc.png
+    link: https://www.cetc.com.cn/
+    attr: company
